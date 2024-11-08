@@ -1,0 +1,2 @@
+password=1232ffnjsvuwf
+secret=RCTF{34234234}
