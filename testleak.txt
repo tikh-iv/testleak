@@ -1,2 +1,4 @@
 password=1232ffnjsvuwf
 secret=RCTF{34234234}
+secert:ewflkjfkjekrjnfui4hti5rhtg54tgr43rq
+token:32ue9832u98hf43fhr394f49j9r3j89f43h8th3
